@@ -1,31 +1,63 @@
-# PO-TION
+<div align="center">
 
-Dein persönlicher KI-Assistent fürs Product Ownership. Aufgaben, Projekte, Meilensteine und Notizen per Chat, mit einem KI-Modell, das komplett lokal auf deinem Mac läuft.
+# 🧪 PO-TION
 
-Dieses Repository enthält nur die fertigen Versionen zum Herunterladen. Der Quellcode ist privat.
+### Dein Product-Owner-Assistent. Läuft komplett auf deinem Mac.
 
-## Installieren
+Aufgaben, Projekte, Meilensteine und Notizen: einfach per Chat.
+Die KI sitzt lokal auf deinem Rechner. **Keine Cloud, keine Kompromisse.**
 
-Voraussetzung: Mac mit Apple-Chip (M1 oder neuer), macOS 12 oder neuer, etwa 4 GB freier Speicher.
+![macOS](https://img.shields.io/badge/macOS-12%2B-000?logo=apple&logoColor=white)
+![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-M1%2B-blue)
+![Lokale KI](https://img.shields.io/badge/KI-100%25%20lokal-success)
 
-Terminal öffnen und diese Zeile einfügen:
+</div>
 
-```
+---
+
+## ✨ Was PO-TION kann
+
+- 💬 **Alles per Chat:** „Leg eine Aufgabe für Freitag an“ statt Formulare auszufüllen
+- 🗂️ **Projekte & Meilensteine:** Überblick, ohne Tool-Chaos
+- 📝 **Notizen:** schnell festgehalten, sofort wiedergefunden
+- 🔒 **Lokale KI:** deine Inhalte verlassen nie deinen Mac
+- 🔌 **Anbindungen:** Linear, Jira/Confluence und Kalender-Abo, wenn du willst
+
+## 🚀 Installation in 10 Sekunden
+
+Terminal öffnen, einfügen, Enter:
+
+```bash
 curl -fsSL https://raw.githubusercontent.com/flavour-flex/potion-releases/main/install.sh | bash
 ```
 
-Der Installer legt PO-TION in deinen Ordner „Programme“ im Benutzerordner (`~/Applications`) und startet es. Beim ersten Start wählst du, ob deine Daten nur auf deinem Mac liegen oder in Linear, und PO-TION lädt einmalig das lokale KI-Modell.
+PO-TION landet in `~/Applications` und startet direkt.
+Beim ersten Start wählst du, wo deine Daten liegen (**nur auf diesem Mac** oder **in Linear**). Danach lädt PO-TION einmalig das lokale KI-Modell.
 
-## Updates
+> **Voraussetzungen:** Mac mit Apple-Chip (M1 oder neuer) · macOS 12+ · ca. 4 GB freier Speicher
 
-PO-TION meldet neue Versionen selbst (oben rechts „Update …“ oder unter Einstellungen → App). Ein Klick auf „Jetzt aktualisieren“ installiert sie, deine Daten bleiben unverändert. Alternativ den Installer-Befehl oben einfach nochmal ausführen.
+## 🔄 Updates
 
-## Datenschutz
+PO-TION sagt dir selbst Bescheid: oben rechts auf **„Update …“** klicken (oder *Einstellungen → App*) und **„Jetzt aktualisieren“** wählen. Deine Daten bleiben unberührt.
+Alternativ: den Installer-Befehl einfach nochmal ausführen.
 
-- Das KI-Modell läuft auf deinem Mac, keine Inhalte gehen an eine Cloud-KI.
-- Im Modus „Nur auf diesem Mac“ liegen auch Aufgaben und Notizen ausschließlich lokal (`~/Library/Application Support/crxs`), mit täglicher Sicherungskopie.
-- Nach außen spricht PO-TION nur mit Diensten, die du selbst einträgst (Linear, Jira/Confluence, Kalender-Abo) und mit GitHub für die Update-Prüfung.
+## 🛡️ Datenschutz: das Kernversprechen
 
-## Deinstallieren
+| | |
+|---|---|
+| 🧠 **KI** | Läuft auf deinem Mac. Keine Inhalte gehen an eine Cloud-KI. |
+| 💾 **Daten** | Im Modus „Nur auf diesem Mac“ liegt alles lokal in `~/Library/Application Support/crxs`, mit täglicher Sicherung. |
+| 🌐 **Netzwerk** | Nur zu Diensten, die du selbst einträgst (Linear, Jira/Confluence, Kalender), und zu GitHub für die Update-Prüfung. |
 
-`~/Applications/PO-TION.app` löschen. Deine Daten liegen in `~/Library/Application Support/crxs` und können ebenfalls gelöscht werden.
+## 🧹 Deinstallation
+
+`~/Applications/PO-TION.app` löschen. Wer auch die Daten loswerden will, löscht zusätzlich `~/Library/Application Support/crxs`.
+
+---
+
+<div align="center">
+
+Dieses Repository enthält nur die fertigen Releases. Der Quellcode ist privat.
+Gebaut mit ☕ und einem Hauch Magie.
+
+</div>
