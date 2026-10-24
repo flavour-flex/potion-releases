@@ -2,12 +2,9 @@
 
 # 🧪 PO-TION
 
-<img width="1698" height="142" alt="grafik" src="https://github.com/user-attachments/assets/5d3bdb59-f8bf-4abc-94d9-5797a6242020" />
+### Dein KI-Assistent für Projekte, Aufgaben und Wissen. Läuft komplett auf deinem Mac.
 
-
-### Dein Product-Owner-Assistent. Läuft komplett auf deinem Mac.
-
-Aufgaben, Projekte, Meilensteine und Notizen: einfach per Chat.
+Für Product Owner, Projektmanager, Abteilungsleiter und alle, die den Überblick behalten müssen.
 Die KI sitzt lokal auf deinem Rechner. **Keine Cloud, keine Kompromisse.**
 
 ![macOS](https://img.shields.io/badge/macOS-12%2B-000?logo=apple&logoColor=white)
@@ -21,10 +18,21 @@ Die KI sitzt lokal auf deinem Rechner. **Keine Cloud, keine Kompromisse.**
 ## ✨ Was PO-TION kann
 
 - 💬 **Alles per Chat:** „Leg eine Aufgabe für Freitag an“ statt Formulare auszufüllen
-- 🗂️ **Projekte & Meilensteine:** Überblick, ohne Tool-Chaos
+- 🗂️ **Projekte & Meilensteine:** Überblick statt Tool-Chaos
 - 📝 **Notizen:** schnell festgehalten, sofort wiedergefunden
+- 📁 **Dokumentenablage:** Dateien strukturiert und lokal ablegen, auslesen und zusammenfassen
+- 🔍 **Durchsuchbar:** Frag einfach, was in deinen Unterlagen steht, und bekomm die Antwort samt Fundstelle
 - 🔒 **Lokale KI:** deine Inhalte verlassen nie deinen Mac
 - 🔌 **Anbindungen:** Linear, Jira/Confluence und Kalender-Abo, wenn du willst
+
+## 👥 Für wen?
+
+| Rolle | Dein Nutzen |
+|---|---|
+| **Product & Platform Owner** | Backlog, Meilensteine und Entscheidungen im Griff |
+| **Projektmanager** | Aufgaben, Termine und Projektunterlagen an einem Ort |
+| **Abteilungsleiter** | Überblick über Themen, Protokolle und Dokumente, schnell zusammengefasst |
+| **Alle anderen** | Wer viel organisiert und vertrauliche Inhalte hat, ist hier richtig |
 
 ## 🚀 Installation in 10 Sekunden
 
@@ -49,7 +57,7 @@ Alternativ: den Installer-Befehl einfach nochmal ausführen.
 | | |
 |---|---|
 | 🧠 **KI** | Läuft auf deinem Mac. Keine Inhalte gehen an eine Cloud-KI. |
-| 💾 **Daten** | Im Modus „Nur auf diesem Mac“ liegt alles lokal in `~/Library/Application Support/crxs`, mit täglicher Sicherung. |
+| 💾 **Daten & Dateien** | Im Modus „Nur auf diesem Mac“ liegen Aufgaben, Notizen und Dokumente lokal in `~/Library/Application Support/crxs`, mit täglicher Sicherung. |
 | 🌐 **Netzwerk** | Nur zu Diensten, die du selbst einträgst (Linear, Jira/Confluence, Kalender), und zu GitHub für die Update-Prüfung. |
 
 ## 🧹 Deinstallation
