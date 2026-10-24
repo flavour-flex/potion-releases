@@ -2,6 +2,9 @@
 
 # 🧪 PO-TION
 
+<img width="1698" height="142" alt="grafik" src="https://github.com/user-attachments/assets/5d3bdb59-f8bf-4abc-94d9-5797a6242020" />
+
+
 ### Dein Product-Owner-Assistent. Läuft komplett auf deinem Mac.
 
 Aufgaben, Projekte, Meilensteine und Notizen: einfach per Chat.
