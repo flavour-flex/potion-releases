@@ -1,0 +1,1 @@
+Einheitliches Rückgängig mit ⌘Z für alle Änderungen; Befehlspalette (⌘.); Mehrfachauswahl in Listen; eigene Meilenstein-Seite mit Notizen, Kommentaren, Verlauf; „Gestützt auf“ unter KI-Antworten; Einführung für neue Nutzer; Oberfläche in Module aufgeteilt, CSS aufgeräumt; automatische Tests vor jeder Veröffentlichung

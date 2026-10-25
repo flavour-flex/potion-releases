@@ -1,0 +1,10 @@
+version=0.29.0
+date=2026-10-25T09:15:46Z
+size=142465795
+sha256=651484b81bbbfb6fbeb896c20cbcb8af13fcc79e1cd988735465d236e1191af7
+part=potion-mac.zip.000
+part=potion-mac.zip.001
+runtime=e33.2.1-b1.4.4-p2
+core=potion-core-0.29.0.zip
+coresize=2915246
+coresha256=a7f9a59257b48635c164e1ce1caab5902754cc903758b4f76689ba2f0e8d0153
